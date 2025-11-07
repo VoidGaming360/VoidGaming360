@@ -1,6 +1,6 @@
 # Hi, I'm Yalung Kiranti 👋
 
-### Junior .NET Developer | Backend Developer | Software Engineer
+### .NET Developer | Backend Developer | Software Engineer
 
 I’m passionate about building scalable backend systems, creating efficient APIs, and delivering optimized web solutions using **.NET, C#, and modern web technologies**.
 
