@@ -16,8 +16,8 @@
 
 I'm a passionate developer who loves building software solutions and exploring new technologies. When I'm not coding, you can find me gaming or exploring the latest tech trends.
 
-* 🔭 I’m currently working on **[Insert Project Name]**
-* 🌱 I’m currently learning **[Insert New Tech, e.g., Cloud Architecture]**
+* 🔭 I’m currently working on **[DOKOMANDU]**
+* 🌱 I’m currently learning **NODE.JS, REACT & TypeScript**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * ⚡ **Fun fact:** I balance my coding logic with gaming reflexes!
 
