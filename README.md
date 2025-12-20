@@ -50,8 +50,8 @@ I'm a passionate developer who loves building software solutions and exploring n
 ### 🎮 Gaming & Interests
 
 * **Favorite Genres:** Strategy, RPG, FPS
-* **Current Grind:** [Insert Game Name]
-* **Setup:** [Insert PC Specs highlight, e.g., RTX 3060 / 16GB RAM]
+* **Current Grind:** Terraria
+* **Setup:** GTX 1660ti, 16GB RAM, powered by intel.
 
 ---
 
