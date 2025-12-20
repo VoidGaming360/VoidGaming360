@@ -24,6 +24,7 @@ I’m passionate about building scalable backend systems, creating efficient API
 
 ## 📌 Featured Projects
 
+- [**Dokomandu**] A high-performance e-commerce platform that features both b2b and c2c markets: (**Currently Working on this**) [Deployed Here](https://www.dokomandu.com/)
 - [**Original Rudrakshya**](https://github.com/VoidGaming360/Original-Rudrakshya) – A high-performance e-commerce platform for authentic Rudraksha products: [Deployed Here](https://www.originalrudrakshya.com/)
 - [**Interesting Blog App API**](https://github.com/VoidGaming360/InterestingBlogWebApp) – Blog backend API with CRUD features built in .NET  
 
