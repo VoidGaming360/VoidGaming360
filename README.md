@@ -66,9 +66,11 @@ I'm a passionate developer who loves building software solutions and exploring n
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidGaming360&theme=radical" alt="VoidGaming360" />
-</div>
+<p align="center">
+  <a href="https://github.com/VoidGaming360">
+    <img src="https://komarev.com/ghpvc/?username=VoidGaming360&label=Profile%20Views&color=0e75b6&style=flat" alt="VoidGaming360" />
+  </a>
+</p>
 
 ---
 
