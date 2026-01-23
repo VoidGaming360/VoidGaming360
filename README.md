@@ -17,7 +17,7 @@
 I'm a passionate developer who loves building software solutions and exploring new technologies. When I'm not coding, you can find me gaming or exploring the latest tech trends.
 
 * 🔭 I’m currently working on **[DOKOMANDU]**
-* 🌱 I’m currently learning **NODE.JS, REACT & TypeScript**
+* 🌱 I’m currently learning **FastAPI, Python, REACT & TypeScript**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * ⚡ **Fun fact:** I balance my coding logic with gaming reflexes!
 
@@ -50,7 +50,7 @@ I'm a passionate developer who loves building software solutions and exploring n
 ### 🎮 Gaming & Interests
 
 * **Favorite Genres:** Strategy, RPG, FPS
-* **Current Grind:** Terraria
+* **Current Grind:** Hearts Of Iron IV
 * **Setup:** GTX 1660ti, 16GB RAM, powered by intel.
 
 ---
