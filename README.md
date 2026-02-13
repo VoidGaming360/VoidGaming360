@@ -37,6 +37,7 @@ I'm a passionate developer who loves building software solutions and exploring n
 <br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FLUTTER-E0E0E0?style=for-the-badge&logo=flutter&logoColor=0468D7" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 **Databases & Tools**
