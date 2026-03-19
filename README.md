@@ -54,7 +54,7 @@ I'm a passionate developer who loves building software solutions and exploring n
 
 * **Favorite Genres:** Strategy, RPG, FPS
 * **Current Grind:** Hearts Of Iron IV
-* **Setup:** GTX 1660ti, 16GB RAM, powered by intel.
+* **Setup:** RTX 5060 Ti, 16GB RAM, powered by AMD Ryzen 7 7700.
 
 ---
 
